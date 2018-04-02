@@ -1,0 +1,41 @@
+{
+  "project_info": {
+    "project_number": "751644214961",
+    "firebase_url": "https://sachpharmatech.firebaseio.com",
+    "project_id": "sachpharmatech"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:751644214961:android:764d2cb7da3280eb",
+        "android_client_info": {
+          "package_name": "io.ionic.starter"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "751644214961-d9i3p4r233b8abmldeq6ainhh67490rb.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBfNQjECZTcE7C3sUD7jbc6kg36-Vs4IWM"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
